@@ -1,0 +1,3 @@
+[submodule "godot_debug_draw_3d"]
+	path = godot_debug_draw_3d
+	url = git@github.com:DmitriySalnikov/godot_debug_draw_3d.git
